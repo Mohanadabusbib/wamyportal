@@ -1,0 +1,13 @@
+.app-sidebar {
+    left: 0;
+}
+.side-menu__label {
+    margin-left: 15px;
+}
+/* .slide:hover{
+    border:2px solid #fff;
+}
+ */
+.slide.is-expanded a {
+    margin-left: 65px;
+}
